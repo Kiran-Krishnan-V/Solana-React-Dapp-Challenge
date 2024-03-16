@@ -7,8 +7,6 @@ This React application serves as a user-friendly demonstration of integrating wi
 - **Features**
 - **Dependencies**
 - **Usage**
-- **Contributing**
-- **License**
 
 **Getting Started**
 
